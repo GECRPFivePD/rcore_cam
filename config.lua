@@ -151,7 +151,7 @@ Config = {
     -- Allowed jobs (police, etc.) can deposit/withdraw recordings, everyone can view
     PublicViewPlaces = {
         MRPD_PUBLIC = {
-            pos = vector3(436.86, -993.16, 29.68),
+            pos = vector3(484.14, -993.35, 29.80),
             folders = {
                 {
                     name = 'evidence_1',
